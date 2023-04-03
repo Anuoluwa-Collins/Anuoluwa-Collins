@@ -1,15 +1,13 @@
-### Hi there 👋
+Hi there Tech Heads👋
 
+My name is Adegoke Anuoluwa Collins 
+A highly motivated and passionte Front-end developer
+i love working on projects and seveloping new and unqiue front end
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning react js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on focus and consitenticy
+- 🌱 I’m currently learning: 
+- 👯 I’m looking fir jobs/internships
+- 💬 Ask me about anything <a href="">Mail</a>
 
 <div id="badges">
   <a href="your-linkedin-URL">
