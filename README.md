@@ -1,4 +1,8 @@
-Hi there Tech Heads👋
+<h1> Hi there Tech Heads👋 </h1>
+
+<br>
+<br>
+<br>
 
 My name is Adegoke Anuoluwa Collins 
 A highly motivated and passionte Front-end developer
@@ -9,6 +13,10 @@ i love working on projects and seveloping new and unqiue front end
 - 👯 I’m looking fir jobs/internships
 - 💬 Ask me about anything <a href="">Mail</a>
 
+<br>
+<br>
+<br>
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +25,9 @@ i love working on projects and seveloping new and unqiue front end
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<br>
+<br>
+<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
