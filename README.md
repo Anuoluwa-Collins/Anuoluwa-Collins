@@ -9,8 +9,8 @@ A highly motivated and passionte Front-end developer
 i love working on projects and seveloping new and unqiue front end
 
 - 🔭 I’m currently working on focus and consitenticy
-- 🌱 I’m currently learning: 
-- 👯 I’m looking fir jobs/internships
+- 🌱 I’m currently learning: React
+- 👯 I’m looking for jobs/internships
 - 💬 Ask me about anything <a href="">Mail</a>
 
 <br>
@@ -29,7 +29,7 @@ i love working on projects and seveloping new and unqiue front end
 <br>
 <br>
 
-<div>
+<div style="">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
