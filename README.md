@@ -29,7 +29,7 @@ i love working on projects and seveloping new and unqiue front end
 <br>
 <br>
 
-<div style="">
+<div>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuoluwa-Collins&layout=compact)](https://github.com/Anuoluwa-Collins/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anuoluwa-Collins)](https://git.io/streak-stats)
 </div>
