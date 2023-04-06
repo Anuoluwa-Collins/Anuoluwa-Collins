@@ -11,7 +11,7 @@ i love working on projects and seveloping new and unqiue front end
 
 - 🔭 I’m currently working on focus and consitenticy
 - 🌱 I’m currently learning: React
-- 👯 I’m looking for jobs/internships <a href="">My resume</a> 
+- 👯 I’m looking for jobs/internships <a href="https://docs.google.com/document/d/1UnBvCLBEmzn7aGg3QydFospskOiuJey3PXL7UHEuxCk/edit#">My resume</a> 
 - 💬 Ask me about anything <a href="">Mail</a>
 
 <br>
